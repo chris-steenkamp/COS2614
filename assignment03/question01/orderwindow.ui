@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>OrderWindow</class>
+ <widget class="QMainWindow" name="OrderWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Orders</string>
+  </property>
+  <widget class="QWidget" name="centralWidget"/>
+  <action name="action_Add_Order">
+   <property name="text">
+    <string>&amp;Add Order</string>
+   </property>
+  </action>
+  <action name="action_View_Order_List">
+   <property name="text">
+    <string>&amp;View Order List</string>
+   </property>
+  </action>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>

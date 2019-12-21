@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fortunes.txt</file>
+        <file>riddles.txt</file>
+    </qresource>
+</RCC>
